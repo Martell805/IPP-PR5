@@ -1,0 +1,6 @@
+version: '3.9'
+services:
+  app:
+    image: martell805/ipp-4:1.0
+    ports:
+      - '8080:8080'
